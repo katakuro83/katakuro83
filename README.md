@@ -53,7 +53,7 @@ I design data platforms that scale from raw ingestion to governed, analytics-rea
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Modern Data Warehouse on Snowflake**](https://github.com/YOUR-USERNAME/modern-dwh-snowflake) | End-to-end ELT pipeline: raw ingestion, staging, dimensional star schema, with automated testing and documentation. | Snowflake, dbt, Airflow |
+| [**Modern Data Warehouse on Snowflake**](https://github.com/katakuro83/modern-data-warehouse-snowflake) | End-to-end ELT pipeline: raw ingestion, staging, dimensional star schema, with automated testing and documentation. | Snowflake, dbt, Airflow |
 | [**Medallion Lakehouse Architecture**](https://github.com/YOUR-USERNAME/medallion-lakehouse) | Bronze/Silver/Gold lakehouse on Databricks with schema enforcement, data quality checks, and incremental (CDC) processing. | Databricks, Delta Lake, PySpark |
 | [**Real-Time Streaming Pipeline**](https://github.com/YOUR-USERNAME/streaming-pipeline-kafka) | Event-driven pipeline ingesting streaming data, processing with Spark Structured Streaming, and landing into a queryable sink. | Kafka, Spark Streaming, Docker |
 | [**Cloud Data Platform as Code**](https://github.com/YOUR-USERNAME/data-platform-terraform) | Fully reproducible cloud data platform (warehouse, storage, IAM, networking) defined and deployed via IaC with CI/CD. | Terraform, AWS/Azure, GitHub Actions |
