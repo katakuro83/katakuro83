@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Katarzyna </h1>
-<h3 align="center">Data Architect - Transforming Raw Data into Scalable Solutions</h3>
+<h1 align="center">Hi, I'm Katarzyna Kurowska</h1>
+<h3 align="center">Data Product Manager acting as Data Architect who transforming Raw Data into Scalable Solutions</h3>
 
 <p align="center">
-Designing robust data architectures, optimized pipelines, and cloud data warehouses.
+Designing robust data architectures, optimized pipelines and cloud data warehouses.
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@ Designing robust data architectures, optimized pipelines, and cloud data warehou
 
 I design data platforms that scale from raw ingestion to governed, analytics-ready warehouses. My focus is architecture that's not just performant on day one, but maintainable, cost-aware, and adaptable as data volume and business needs grow.
 
-- **Architecture** - dimensional modeling, medallion (bronze/silver/gold) lakehouses, data mesh principles
-- **Pipelines** - batch & streaming ELT/ETL, orchestration, CDC
-- **Cloud Platforms** - Snowflake, Databricks
-- **Governance** - data quality, lineage, cataloging, access control
-- **Engineering** - IaC, CI/CD for data, testing pipelines like software
+- **Architecture**: dimensional modeling, medallion (bronze/silver/gold) lakehouses, data mesh principles
+- **Pipelines**: batch & streaming ELT/ETL, orchestration, CDC
+- **Cloud Platforms**: Snowflake, Databricks
+- **Governance**: data quality, lineage, cataloging, access control
+- **Engineering**: IaC, CI/CD for data, testing pipelines like software
 
 ---
 
@@ -53,17 +53,17 @@ I design data platforms that scale from raw ingestion to governed, analytics-rea
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Modern Data Warehouse on Snowflake**](https://github.com/YOUR-USERNAME/modern-dwh-snowflake) | End-to-end ELT pipeline: raw ingestion → staging → dimensional star schema, with automated testing and documentation. | Snowflake, dbt, Airflow |
+| [**Modern Data Warehouse on Snowflake**](https://github.com/YOUR-USERNAME/modern-dwh-snowflake) | End-to-end ELT pipeline: raw ingestion, staging, dimensional star schema, with automated testing and documentation. | Snowflake, dbt, Airflow |
 | [**Medallion Lakehouse Architecture**](https://github.com/YOUR-USERNAME/medallion-lakehouse) | Bronze/Silver/Gold lakehouse on Databricks with schema enforcement, data quality checks, and incremental (CDC) processing. | Databricks, Delta Lake, PySpark |
 | [**Real-Time Streaming Pipeline**](https://github.com/YOUR-USERNAME/streaming-pipeline-kafka) | Event-driven pipeline ingesting streaming data, processing with Spark Structured Streaming, and landing into a queryable sink. | Kafka, Spark Streaming, Docker |
 | [**Cloud Data Platform as Code**](https://github.com/YOUR-USERNAME/data-platform-terraform) | Fully reproducible cloud data platform (warehouse, storage, IAM, networking) defined and deployed via IaC with CI/CD. | Terraform, AWS/Azure, GitHub Actions |
-| [**Data Modeling Playbook**](https://github.com/YOUR-USERNAME/data-modeling-playbook) | Reference repo comparing modeling approaches — 3NF, Kimball star schema, Data Vault 2.0 — with the same dataset, plus decision guidance on when to use each. | SQL, dbt, ERD diagrams |
+| [**Data Modeling Playbook**](https://github.com/YOUR-USERNAME/data-modeling-playbook) | Reference repo comparing modeling approaches: 3NF, Kimball star schema, Data Vault 2.0 with the same dataset, plus decision guidance on when to use each. | SQL, dbt, ERD diagrams |
 | [**Data Quality & Observability Framework**](https://github.com/YOUR-USERNAME/data-quality-framework) | Reusable framework for validating pipeline outputs, tracking data lineage, and alerting on anomalies. | Great Expectations, dbt tests, Airflow |
 
 ---
 
 ### Let's Connect
 
-I'm always open to discussing data architecture, pipeline design, or cloud platform strategy.
+I'm always open to discussing data architecture, pipeline design or cloud platform strategy.
 
 LinkedIn: [kurowskakatya](https://www.linkedin.com/in/kurowskakatya/)
