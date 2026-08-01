@@ -49,7 +49,7 @@ I design data platforms that scale from raw ingestion to governed, analytics-rea
 
 ---
 
-### Featured Projects
+### Data Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -64,6 +64,6 @@ I design data platforms that scale from raw ingestion to governed, analytics-rea
 
 ### Let's Connect
 
-I'm always open to discussing data architecture, pipeline design or cloud platform strategy.
+Feel free to reach out if you'd like to connect, share ideas, or discuss potential future collaborations. I'm always open to discussing data architecture, pipeline design or cloud platform strategy, as well as exploring potential career opportunities as a Data Product Manager or Data Architect.
 
 LinkedIn: [kurowskakatya](https://www.linkedin.com/in/kurowskakatya/)
