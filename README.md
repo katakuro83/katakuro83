@@ -12,7 +12,7 @@ Designing robust data architectures, optimized pipelines and cloud data warehous
 
 ### About Me
 
-I design data platforms that scale from raw ingestion to governed, analytics-ready warehouses. My focus is architecture that's not just performant on day one, but maintainable, cost-aware, and adaptable as data volume and business needs grow.
+I design data platforms that scale from raw ingestion to governed, analytics ready warehouses. My focus is architecture that's not just performant on day one, but maintainable, cost aware, and adaptable as data volume and business needs grow.
 
 - **Architecture**: dimensional modeling, medallion (bronze/silver/gold) lakehouses, data mesh principles
 - **Pipelines**: batch & streaming ELT/ETL, orchestration, CDC
