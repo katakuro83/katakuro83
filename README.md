@@ -2,7 +2,7 @@
 <h3 align="center">Data Product Manager acting as Data Architect who transforming Raw Data into Scalable Solutions</h3>
 
 <p align="center">
-Designing robust data architectures, optimized pipelines and cloud data warehouses.
+Designing robust data architectures, optimized data pipelines and cloud data platforms.
 </p>
 
 <p align="center">
@@ -64,6 +64,6 @@ I design data platforms that scale from raw ingestion to governed, analytics rea
 
 ### Let's Connect
 
-Feel free to reach out if you'd like to connect, share ideas, or discuss potential future collaborations. I'm always open to discussing data architecture, pipeline design or cloud platform strategy, as well as exploring potential career opportunities as a Data Product Manager or Data Architect.
+Feel free to reach out if you'd like to connect, share ideas, or discuss potential future collaborations. I'm always open to discussing data architecture, pipeline design or cloud data platform strategy, as well as exploring potential career opportunities as a Data Product Manager or Data Architect.
 
 LinkedIn: [kurowskakatya](https://www.linkedin.com/in/kurowskakatya/)
