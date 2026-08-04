@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Katarzyna Kurowska</h1>
-<h3 align="center">Data Product Manager acting as Data Architect who transforming Raw Data into Scalable Solutions</h3>
+<h3 align="center">Data Product Manager acting as Data Architect who transforming raw data into scalable solutions</h3>
 
 <p align="center">
-designing robust data architectures, optimized data pipelines and cloud data platforms.
+designing robust data architectures with optimized data pipelines on cloud data platforms.
 </p>
 
 <p align="center">
