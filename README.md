@@ -2,7 +2,7 @@
 <h3 align="center">Data Product Manager acting as Data Architect who transforming Raw Data into Scalable Solutions</h3>
 
 <p align="center">
-Designing robust data architectures, optimized data pipelines and cloud data platforms.
+designing robust data architectures, optimized data pipelines and cloud data platforms.
 </p>
 
 <p align="center">
